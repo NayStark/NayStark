@@ -4,7 +4,7 @@ Aerospace Engineer | Guidance, Navigation & Control (GNC) | Orbital & Attitude C
 ## 🚀 Featured Projects
 - **[LEO Orbit EKF Simulation](https://github.com/NayStark/LEO-Extended-Kalman-Filter-Orbit-Simulation)** — Orbit estimation using Extended Kalman Filter; animated 3D visualization of true vs estimated orbit.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NayStark/LEO-Extended-Kalman-Filter-Orbit-Simulation/main/LEO_EKF_Orbit.gif" alt="Satellite Attitude Animation" width="400"/>
+  <img src="https://raw.githubusercontent.com/NayStark/LEO-Extended-Kalman-Filter-Orbit-Simulation/main/output/LEO_EKF_RK45_Orbit-ezgif.com-optimize.gif" alt="Satellite Attitude Animation" width="400"/>
 </p>
 
 
