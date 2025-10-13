@@ -4,7 +4,7 @@ Aerospace Engineer | Guidance, Navigation & Control (GNC) | Orbital & Attitude C
 ## 🚀 Featured Projects
 - **[LEO Orbit EKF Simulation](https://github.com/NayStark/LEO-Extended-Kalman-Filter-Orbit-Simulation)** — Orbit estimation using Extended Kalman Filter; animated 3D visualization of true vs estimated orbit.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NayStark/LEO-Extended-Kalman-Filter-Orbit-Simulation/main/output/LEO_EKF_RK45_Orbit-ezgif.com-optimize.gif" alt="Satellite Attitude Animation" width="400"/>
+  <img src="https://raw.githubusercontent.com/NayStark/LEO-Extended-Kalman-Filter-Orbit-Simulation/main/output/LEO_EKF_RK45_Orbit-ezgif.com-optimize.gif" alt="EKF Orbit Graph" width="400"/>
 </p>
 
 - **[Attitude Control Simulation](https://github.com/NayStark/Satellite-Attitude-Control-Simulation)** — 3D spacecraft attitude stabilization using reaction wheels and quaternion-based PD control.
@@ -13,6 +13,9 @@ Aerospace Engineer | Guidance, Navigation & Control (GNC) | Orbital & Attitude C
 </p>
 
 - **[2D Rocket Landing Simulation](https://github.com/NayStark/2D-PID-Smooth-Landing-Control)** — 2D Rocket landing simulation with PID control, touching on the ground softly.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/277ee1fc-db81-4d1a-8e22-703a6f591c9a" alt="2D Rocket Landing Plot" width="400"/>
+</p>
 
 ## 🛰 About Me
 Recent Penn State Aerospace Engineering graduate passionate about spacecraft GNC, orbital mechanics, and autonomy. Experienced in simulation, estimation, and control algorithms. Well practiced in systems engineering, engineering team leadership, and agile iteration development.
