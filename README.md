@@ -3,11 +3,14 @@ Aerospace Engineer | Guidance, Navigation & Control (GNC) | Orbital & Attitude C
 
 ## 🚀 Featured Projects
 - **[LEO Orbit EKF Simulation](https://github.com/NayStark/LEO-Extended-Kalman-Filter-Orbit-Simulation)** — Orbit estimation using Extended Kalman Filter; animated 3D visualization of true vs estimated orbit.
-  - 
+
+
+
 - **[Attitude Control Simulation](https://github.com/NayStark/Satellite-Attitude-Control-Simulation)** — 3D spacecraft attitude stabilization using reaction wheels and quaternion-based PD control.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/30271cb7-5e0f-4d4f-bc75-29bcc90a5196" alt="satellite_attitude-ezgif com-optimize" width="600"/>
+  <img src="https://github.com/user-attachments/assets/30271cb7-5e0f-4d4f-bc75-29bcc90a5196" alt="Satellite Attitude Animation" width="450"/>
 </p>
+
 - **[2D Rocket Landing Simulation](https://github.com/NayStark/2D-PID-Smooth-Landing-Control)** — 2D Rocket landing simulation with PID control, touching on the ground softly.
 
 ## 🛰 About Me
