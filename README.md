@@ -10,6 +10,6 @@ Aerospace Engineer | Guidance, Navigation & Control (GNC) | Orbital & Attitude C
 Recent Penn State Aerospace Engineering graduate passionate about spacecraft GNC, orbital mechanics, and autonomy. Experienced in simulation, estimation, and control algorithms. Well practiced in systems engineering, engineering team leadership, and agile iteration development.
 
 ## 📫 Contact
-- LinkedIn: **[Sunay Neelimathara](https://www.linkedin.com/in/sunay-neelimathara-195b87263/)**
+- LinkedIn: [Sunay Neelimathara](https://www.linkedin.com/in/sunay-neelimathara-195b87263/)
 - Email: sunay.neelimathara@gmail.com
 - Digital Portfolio: https://sunayspace.wixsite.com/portfolio/
