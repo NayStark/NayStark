@@ -8,7 +8,7 @@ Aerospace Engineer | Guidance, Navigation & Control (GNC) | Orbital & Attitude C
 
 - **[Attitude Control Simulation](https://github.com/NayStark/Satellite-Attitude-Control-Simulation)** — 3D spacecraft attitude stabilization using reaction wheels and quaternion-based PD control.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/30271cb7-5e0f-4d4f-bc75-29bcc90a5196" alt="Satellite Attitude Animation" width="450"/>
+  <img src="https://github.com/user-attachments/assets/30271cb7-5e0f-4d4f-bc75-29bcc90a5196" alt="Satellite Attitude Animation" width="350"/>
 </p>
 
 - **[2D Rocket Landing Simulation](https://github.com/NayStark/2D-PID-Smooth-Landing-Control)** — 2D Rocket landing simulation with PID control, touching on the ground softly.
