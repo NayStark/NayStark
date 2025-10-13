@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sunay 👋
+Aerospace Engineer | Guidance, Navigation & Control (GNC) | Orbital & Attitude Control | Python / MATLAB | Open to work in Los Angeles #OpenToWork
 
-<!--
-**NayStark/NayStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
+- **[LEO Orbit EKF Simulation](https://github.com/NayStark/LEO-Extended-Kalman-Filter-Orbit-Simulation)** — Orbit estimation using Extended Kalman Filter; animated 3D visualization of true vs estimated orbit.
+- **[Attitude Control Simulation](https://github.com/NayStark/Satellite-Attitude-Control-Simulation)** — 3D spacecraft attitude stabilization using reaction wheels and quaternion-based PD control.
 
-Here are some ideas to get you started:
+## 🛰 About Me
+Recent Penn State Aerospace Engineering graduate passionate about spacecraft GNC, orbital mechanics, and autonomy. Experienced in simulation, estimation, and control algorithms. Well practiced in systems engineering, engineering team leadership, and agile iteration development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: **[Sunay Neelimathara](https://www.linkedin.com/in/sunay-neelimathara-195b87263/)**
+- Email: sunay.neelimathara@gmail.com
+- Digital Portfolio: https://sunayspace.wixsite.com/portfolio/
