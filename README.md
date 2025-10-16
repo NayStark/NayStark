@@ -1,5 +1,5 @@
 # Hi, I'm Sunay 👋
-Aerospace Engineer | Guidance, Navigation & Control (GNC) | Orbital & Attitude Control | Python / MATLAB | Open to work in Los Angeles #OpenToWork
+Aerospace Engineer | Guidance, Navigation & Control (GNC) | Orbital & Attitude Control | Python / MATLAB
 
 ## 🚀 Featured Projects
 - **[LEO Orbit EKF Simulation](https://github.com/NayStark/LEO-Extended-Kalman-Filter-Orbit-Simulation)** — Orbit estimation using Extended Kalman Filter; animated 3D visualization of true vs estimated orbit.
