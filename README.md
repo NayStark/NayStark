@@ -12,6 +12,12 @@ Aerospace Engineer | Guidance, Navigation & Control (GNC) | Orbital & Attitude C
   <img src="https://github.com/user-attachments/assets/30271cb7-5e0f-4d4f-bc75-29bcc90a5196" alt="Satellite Attitude Animation" width="400"/>
 </p>
 
+- **[Artemis II Lunar Flyby Visualization](https://github.com/NayStark/Artemis-Orbital-Trajectory-Visualizer)** — High-fidelity visualization of spacecraft trajectories in Earth–Moon space using ephemeris data from NASA JPL Horizons. Includes velocity-aligned spacecraft attitude and inertial-frame rendering for mission analysis and interpretation.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4345dcd2-c622-45a7-b712-8b5a6bb94157" alt="Artemis II Flyby Trajectory" width="400"/>
+</p>
+
+
 - **[2D Rocket Landing Simulation](https://github.com/NayStark/2D-PID-Smooth-Landing-Control)** — 2D Rocket landing simulation with PID control, touching on the ground softly.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/277ee1fc-db81-4d1a-8e22-703a6f591c9a" alt="2D Rocket Landing Plot" width="400"/>
