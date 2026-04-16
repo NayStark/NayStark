@@ -30,3 +30,33 @@ Recent Penn State Aerospace Engineering graduate passionate about spacecraft GNC
 - LinkedIn: [Sunay Neelimathara](https://www.linkedin.com/in/sunay-neelimathara-195b87263/)
 - Email: sunay.neelimathara@gmail.com
 - Digital Portfolio: https://sunayspace.wixsite.com/portfolio/
+
+## 🧠 Languages & Engineering Toolkit
+
+<p align="center">
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange?logo=matlab)
+![C++](https://img.shields.io/badge/C++-Simulation_Systems-blue?logo=c%2B%2B)
+
+### GNC / Aerospace Processes
+![GNC](https://img.shields.io/badge/Domain-Guidance_Navigation_Control-red)
+![Estimation](https://img.shields.io/badge/Process-State_Estimation-critical)
+![Control](https://img.shields.io/badge/Process-Feedback_Control-blue)
+![Dynamics](https://img.shields.io/badge/Process-Flight_Dynamics-purple)
+![Simulation](https://img.shields.io/badge/Process-Numerical_Simulation-success)
+
+### Scientific Computing Stack
+![NumPy](https://img.shields.io/badge/NumPy-Linear_Algebra-013243?logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-ODE_Solvers-8CAAE6?logo=scipy)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=matplotlib)
+
+### Systems & Modeling Concepts
+![EKF](https://img.shields.io/badge/Algorithm-Extended_Kalman_Filter-critical)
+![PID](https://img.shields.io/badge/Control-PID_Tuning-blue)
+![Quaternion](https://img.shields.io/badge/Attitude-Quaternion_Kinematics-black)
+![Orbital Mechanics](https://img.shields.io/badge/Physics-Orbital_Dynamics-purple)
+
+</p>
