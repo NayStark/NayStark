@@ -58,5 +58,6 @@ Recent Penn State Aerospace Engineering graduate passionate about spacecraft GNC
 ![PID](https://img.shields.io/badge/Control-PID_Tuning-blue)
 ![Quaternion](https://img.shields.io/badge/Attitude-Quaternion_Kinematics-black)
 ![Orbital Mechanics](https://img.shields.io/badge/Physics-Orbital_Dynamics-purple)
+![Monte Carlo Validation](https://img.shields.io/badge/Validation-Monte_Carlo-orange)
 
 </p>
